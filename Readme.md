@@ -1,6 +1,6 @@
 # Mini Simpsons Search
 
-Es un pequeño proyecto que hice durante el testeo de buscasimpsons.com
+Es un pequeño proyecto que hice durante el testeo de la api de buscasimpsons.com
 
 aprendizaje sobre consumo de APIs REST. Usa la API pública de [buscasimpsons.com](https://buscasimpsons.com) para buscar citas y fotogramas de la serie.
 
